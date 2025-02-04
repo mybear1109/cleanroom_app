@@ -1,8 +1,6 @@
 numpy
-streamlit 
-PIL
-os
-tensorflow.keras.models
-tensorflow.keras.layers
+pillow
+tensorflow==2.16.1
+streamlit
 
 
